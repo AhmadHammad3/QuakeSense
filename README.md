@@ -1,3 +1,1 @@
 # QuakeSense
-# QuakeSense
-# QuakeSense
